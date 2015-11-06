@@ -1,0 +1,5 @@
+Sometimes you want to select multiple vertices at once. In order to do so, you must be in edit mode. Then hold control while dragging over the shape. 
+
+The problem with this method is that it only selects the vertices that are visible. In our case we want to select all vertices, so we press Z in order to view the wireframe. Then we do the same thing as before, but this time it will select all of the vertices. 
+
+Now that they are all selected we can use the normal tools like move or rotate. 

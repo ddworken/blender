@@ -1,0 +1,1 @@
+First select the vertices that you want to delete. Then you press X. Then you would think select Vertices. This deletes the vertices and the faces leaving this hollow area which we cannot print. Instead you must select Dissolve Vertices. This then creates a flat face where the vertices used to be. 
