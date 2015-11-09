@@ -1,0 +1,3 @@
+In order to rotate an object, click the rotate button. While rotating, you can specify the axis you want to rotate about by pressing the x, y, or z key. 
+
+The shortcut to rotate an object is R. 

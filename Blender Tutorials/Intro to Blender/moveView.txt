@@ -1,0 +1,5 @@
+In order to pan the view, you middle click and drag. 
+
+In order to zoom in or out, you use the scroll wheel on your mouse. 
+
+You can also use a number of preset viewpoints by going to View then selecting a view point, for example top or left which will allow you to view the object from that direction. 

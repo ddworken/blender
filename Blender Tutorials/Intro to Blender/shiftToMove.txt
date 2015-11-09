@@ -1,0 +1,1 @@
+Sometimes you need to move the viewpoint laterally, instead of panning. In order to do this, you press shift while middle click dragging. This will move the view point side to side rather than rotating the viewpoint. 

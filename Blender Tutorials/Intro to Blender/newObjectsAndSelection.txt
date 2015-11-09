@@ -1,0 +1,3 @@
+To add a new object, go to Create then select the object you want to add. There are a number of different options you can play around with. 
+
+In order to manipulate an object, it must be selected. So right click an object to select it then you can manipulate it as we did previously. 
