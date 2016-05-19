@@ -1,0 +1,1 @@
+If you want to change the actual shape of the object, you will need to enter edit mode. Press Tab to enter edit mode. From here you can select vertices on the object to manipulate and move. 
